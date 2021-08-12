@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lucas!
 
-💻 Software Developer <br>
+💻 Software Engineer <br>
 🏡 Brazilian, Based in São Paulo, SP
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luquera/)](https://www.linkedin.com/in/luquera/)
